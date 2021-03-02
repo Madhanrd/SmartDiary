@@ -10,4 +10,6 @@ Digital Diary
 2. Clone a repo --> git clone https://github.com/Madhanrd/SmartDiary.git
 3. Goto a repo --> cd SmartDiary
 4. Make a branch --> git checkout -b homepage
-5. Start coding!!!
+5. Install dependencies --> npm install
+6. Start running application into your browser --> ionic serve
+7. Start coding!!!
