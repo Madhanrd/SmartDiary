@@ -1,7 +1,0 @@
-{
-  "name": "smartDiary",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
